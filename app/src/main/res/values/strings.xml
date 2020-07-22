@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SocialMediaLogin</string>
+    <string name="facebook_app_id">1289606064764615</string>
+    <string name="fb_login_protocol_scheme">fb1289606064764615</string>
+    <string name="google_login">Google Login</string>
+    <string name="facebook_login">FaceBook Login</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+
+
+</resources>
